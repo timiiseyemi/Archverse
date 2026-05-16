@@ -1,6 +1,4 @@
-/* ============================================
-   STILL MIND - script.js
-   ============================================ */
+
 
 gsap.registerPlugin(ScrollTrigger, ScrollSmoother, Flip, ScrambleTextPlugin);
 ScrollTrigger.normalizeScroll(true);
